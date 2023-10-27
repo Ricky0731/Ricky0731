@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ricky0731
+- 👋 Hi, I’m @saitulasi0731
 - 👀 I’m interested in artificial Intelligence and machine learning
 - 🌱 I’m currently learning ...artificial intelligence
 - 💞️ I’m looking to collaborate on companies which pay to my intelligence
